@@ -5,8 +5,7 @@ dessa tendência são diversas e vão desde a transformação no modo de operaç
 abusivas das grandes plataformas.
 
 Porém, em 2023, simplesmente não é viável voltar ao modo de trabalho “pré-Ifood”... Foi por isso que a pizzaria Pits A
-decidiu desenvolver seu próprio aplicativo de delivery. E adivinha só… vocês foram escolhidos para ajudar!
-
+decidiu desenvolver seu próprio aplicativo de delivery.
 ### 🔗 Endereços Úteis
 
 - [Swagger](http://localhost:8080/swagger-ui/index.html)
